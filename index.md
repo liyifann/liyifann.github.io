@@ -11,7 +11,7 @@ This is reference.
 This is a simple paragraph. I'd like to representation something.
 Such as _italic_ style, __bold__ style and ~~deleted~~ style.
 
-[Link](https://www.google.com)
+[中文测试](https://liyifann.github.io/about.md)
 
 
 > let's quote
